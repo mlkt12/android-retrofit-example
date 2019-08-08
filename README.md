@@ -1,2 +1,2 @@
 # android-retrofit-example
-How to use retrofit in Android
+How to use retrofit in Android (with/without RxJava)
